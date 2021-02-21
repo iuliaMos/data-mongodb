@@ -1,5 +1,6 @@
-package com.example;
+package com.example.repository;
 
+import com.example.entity.Customer;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;
